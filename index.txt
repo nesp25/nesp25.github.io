@@ -1,0 +1,53 @@
+
+<!--/////////////////////////////////////////////////////-->
+<!--//   Here begins the bulk content of "Index.html"  ////-->
+<!--/////////////////////////////////////////////////////-->
+
+<tr> <td>&nbsp;</td> <td colspan="2"><div align="justify"class="bodyText"> 
+
+<br>The last decade has seen an increasing interaction between
+theoretical physics, combinatorics and probability theory, concerning
+the study and applications of exactly solvable models of statistical
+mechanics, with a number of spectacular developments.  
+
+<br><br> As examples of such constructive interplay, let us mention:
+dimer models, random surfaces and limit shape phenomena; random
+tilings, random partitions and stochastic growth processes; random
+tilings and representation theory; Schramm-Loewner evolution and
+Conformal Field Theory; the recently developed idea of discrete
+holomorphicity; a rigorous characterization of Kardar-Parisi-Zhang
+universality class; classical problems in combinatorics, such as the
+enumeration of Alternating Sign Matrices and plane partitions; the
+Razumov-Stroganov correspondence; lattice supersymmetry, and in
+particular, supersymmetric quantum spin chains.  
+
+<br><br> The purpose of this eight weeks programme is to bring
+together theoretical and mathematical physicists with expertise in
+probability theory, analysis, integrable systems, combinatorics and
+representation theory, to boost further advances in the field.
+<br><br>
+
+Main topics:
+<br>
+<br>- Random tilings and limit-shape phenomena 
+<br>- Random matrices, determinantal processes and KPZ universality class 
+<br>- Discrete holomorphicity and integrability 
+<br>- Lattice models and combinatorics 
+<br>- Quantum integrability and  correlation functions 
+<br><br> 
+
+
+<br> Deadline for application: 30 November 2014.
+
+<br> Late applications may be also considered. 
+
+<br><br>
+
+</div></td>
+<td>&nbsp;</td>
+</tr>
+
+<!--/////////////////////////////////////////////////////-->
+<!--//   Here ends the bulk content of "Index.html"  ////-->
+<!--/////////////////////////////////////////////////////-->
+

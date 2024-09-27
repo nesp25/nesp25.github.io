@@ -1,0 +1,86 @@
+
+<!--//////////////////////////////////////////////////////////-->
+<!--//  Here starts the bulk content of "Practical.html"  ////-->
+<!--//////////////////////////////////////////////////////////-->
+
+<tr> <td>&nbsp;</td> <td colspan="2"><div align="justify"class="bodyText"> 
+ 
+<br>
+GGI-agreed accomodations:
+
+<br><br> 
+
+- The complete list of GGI-agreed
+accommodations is available <a href="./Accommodations.pdf">here</a>.
+
+<br>
+
+- GGI agreed accommodations may offer you the special GGI
+prices shown in the list (and in case of GGI financial support, accept
+to be paid directly by GGI), only if the reservation is made through
+the GGI accomodation staff.  
+
+<br>
+
+- To receive help from the GGI accomodation staff, you need to fill the
+<a
+href="https://www.ggi.fi.infn.it/apply/index.php?page=apply.inc&id=139">online
+registration form</a>, first.
+
+<br>
+- Only after registration, and after receiving GGI official invitation letter,
+please contact the GGI accomodation staff,
+in particular, Mrs. Mirella Ridi at <a
+href="mailto:event@youritalianplanners.com">Studio Guidi</a>.
+
+<br><br>
+
+<hr> 
+
+<br>
+Other practical info:
+<br><br>
+- <a href="http://www.ataf.net/en/timetables-and-routes/timetables-and-routes/line-38.aspx?idC=180&idO=0&Linea=38&LN=en-US">Bussino</a>
+(small bus, n. 38A, connecting  Porta Romana and GGI)
+<UL>
+<LI> 
+up hill: 8.10, 8.25, 9.25, 10.30, 12.10, 12.45, 13.50, 14.25
+<br>
+<LI>
+down hill: 12.20, 12.55, 13.58, 14.30, 15.25, 17.07, 18.02, 19.02
+<br>
+<LI>
+tickets available at newspaper kiosks and tobacconists
+</UL>
+- <a href="http://ggi-www.fi.infn.it/index.php?page=info.inc">How to reach GGI</a> <br><br>
+- Eating in Florence:
+<UL>
+<LI>
+<a href="./Eating.pdf">An informal list of eating places in Florence</a>
+<br>
+<LI>
+<a href="./Eating_2.pdf">My restaurant experiences in Florence</a>, by Tony Guttmann
+</UL>
+- <a href="http://english.firenze.net/">Some other info about Florence</a> <br><br>
+- <a href="http://www.operadifirenze.it/en/">Maggio Musicale Fiorentino</a>, 
+Opera di Firenze<br>
+<UL>
+<LI> 
+<a href="http://www.operadifirenze.it/events/grigory-sokolov-2/">May 18, 
+Grigory Sokolov in Florence</a>
+<br>
+<LI>
+<a href="http://www.operadifirenze.it/events/krystian-zimerman-2/"> May 24, 
+Krystian Zimerman in Florence</a>
+</UL>
+- <a href="http://www.estatefiesolana.it/">Estate Fiesolana 2015</a>
+<br><br>
+- <a href="http://www.boxol.it/eventi/2015/06/18/patti-smith--horses-teatro-le-mulina-firenze">Patty Smith - Horses</a>
+<br><br>
+</div></td>
+    <td>&nbsp;</td>
+  </tr>
+
+<!--//////////////////////////////////////////////////////////-->
+<!--//  Here ends the bulk content of "Practical.html"  //////-->
+<!--//////////////////////////////////////////////////////////-->
