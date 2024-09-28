@@ -1,0 +1,52 @@
+
+<!--//////////////////////////////////////////////////////////-->
+<!--//  Here starts the bulk content of "Participants.html" //-->
+<!--//////////////////////////////////////////////////////////-->
+
+<tr> <td>&nbsp;</td> <td colspan="2"><div align="justify"class="bodyText"> 
+
+<br>
+<br>Registered participants:
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+
+
+
+
+
+
+<!--
+<br>Philippe Di Francesco&nbsp;<i>(CEA-Saclay)</i>
+<br>Vincent Beffara&nbsp;<i>(ENS, Lyon)</i>
+<br>&nbsp;<i>()</i>
+<br>&nbsp;<i>()</i>
+-->
+
+</div></td>
+    <td>&nbsp;</td>
+  </tr>
+
+<!--///////////////////////////////////////////////////////-->
+<!--// Here ends the bulk content of Participants.html"  //-->
+<!--///////////////////////////////////////////////////////-->
