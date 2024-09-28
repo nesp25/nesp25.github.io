@@ -1,0 +1,49 @@
+
+<!--//////////////////////////////////////////////////////////-->
+<!--//  Here starts the bulk content of "Speakers.html"  /////-->
+<!--//////////////////////////////////////////////////////////-->
+
+
+
+<tr> <td>&nbsp;</td> <td colspan="2"><div align="justify"class="bodyText"> 
+
+<br>
+<br>Speakers:
+<br>
+<br>Vincent Beffara&nbsp;<i>(ENS, Lyon)</i>
+<br>Philippe Biane&nbsp;<i>(Universit&egrave; Paris-Est)</i>
+<br>Pavel Bleher&nbsp;<i>(IUPUI, Indianapolis)</i>
+<br>Luigi Cantini&nbsp;<i>(Universit&egrave; Cergy-Pontoise)</i>
+<br>Mihai Ciucu&nbsp;<i>(University of Indiana, Bloomington)</i>
+<br>Sylvie Corteel&nbsp;<i>(CNRS-Diderot, Paris 7)</i>
+<br>Jan De Gier&nbsp;<i>(University of Melbourne)</i>
+<br>Gesualdo Delfino &nbsp;<i>(SISSA, Trieste)</i>
+<br>Philippe Di Francesco&nbsp;<i>(CEA-Saclay)</i>
+<br>Frank G&ouml;hmann&nbsp;<i>(University of Wuppertal)</i>
+<br>Tony Guttmann&nbsp;<i>(University of Melbourne)</i>
+<br>Kurt Johansson&nbsp;<i>(Royal Institute of Technology, Stockholm)</i>
+<br>Rinat Kedem&nbsp;<i>(University of Illinois at Urbana-Champaign)</i>
+<br>Kalle Kyt&ouml;l&auml;&nbsp;<i>(Aalto University)</i>
+<br>Soichi Okada&nbsp;<i>(Nagoya University)</i>
+<br>Greta Panova&nbsp;<i>(University of Pennsylvania)</i>
+<br>Hjalmar Rosengren&nbsp;<i>(Chalmers University of Technology)</i>
+<br>Fedor Smirnov&nbsp;<i>(CNRS-UPMC, Paris 6)</i>
+<br>Jessica Striker&nbsp;<i>(North Dakota State University)</i>
+<br>Robert Weston&nbsp;<i>(Heriot-Watt University, Edinburgh)</i>
+<br>
+<br>
+
+<!--
+<br>&nbsp;<i>()</i>
+<br>&nbsp;<i>()</i>
+-->
+
+</div></td>
+    <td>&nbsp;</td>
+  </tr>
+
+<!--//////////////////////////////////////////////////////////-->
+<!--//  Here ends the bulk content of "Speakers.html"  ///////-->
+<!--//////////////////////////////////////////////////////////-->
+ 
+

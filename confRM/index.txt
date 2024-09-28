@@ -1,0 +1,31 @@
+
+<!--/////////////////////////////////////////////////////-->
+<!--//   Here starts the bulk content of "Index.html"  //-->
+<!--/////////////////////////////////////////////////////-->
+<tr> 
+ <td>&nbsp;</td> <td colspan="2">
+
+ 
+<p align="center">
+
+
+<a href="ConfPhoto.jpg"><IMG SRC="ConfPhoto.jpg" width="1000" ></a> 
+
+</p>
+<p align="right" class="bodyText">
+Photo by Olga Alexandrova
+</td>
+
+</tr> 
+
+<!--///////////////////////////////////////////////////////
+<td>&nbsp;</td> <td colspan="2"><div align="justify"class="bodyText"> 
+</div></td>
+<td>&nbsp;</td>
+/////////////////////////////////////////////////////////-->
+
+
+<!--/////////////////////////////////////////////////////-->
+<!--//   Here ends the bulk content of "Index.html"  ////-->
+<!--/////////////////////////////////////////////////////-->
+

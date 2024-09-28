@@ -1,0 +1,35 @@
+
+<!--//////////////////////////////////////////////////////////-->
+<!--//  Here starts the bulk content of "Practical.html"  ////-->
+<!--//////////////////////////////////////////////////////////-->
+
+
+
+<tr> <td>&nbsp;</td> <td colspan="2"><div align="justify"class="bodyText"> 
+
+ <br><br>
+- <a href="http://ggi-www.fi.infn.it/index.php?page=info.inc#CHotels">How to reach GGI</a> 
+<br><br>
+- <a href="./Eating.pdf">Eating in Florence</a> 
+<br><br>
+- <a href="http://english.firenze.net/">Some other info about Firenze</a> 
+<br><br>
+
+- <a href="http://www.operadifirenze.it/events/grigory-sokolov-2/">March 18, 
+Grigory Sokolov in Florence</a>, a few tickets still available.
+
+ <br><br> <br><br>
+ <br><br> <br><br> <br><br>
+
+<br><br> 
+
+
+</div></td>
+    <td>&nbsp;</td>
+  </tr>
+
+<!--//////////////////////////////////////////////////////////-->
+<!--//  Here ends the bulk content of "Practical.html"  //////-->
+<!--//////////////////////////////////////////////////////////-->
+
+

@@ -1,0 +1,49 @@
+
+<!--/////////////////////////////////////////////////////-->
+<!--//   Here starts the bulk content of "Index.html"  //-->
+<!--/////////////////////////////////////////////////////-->
+
+<tr> <td>&nbsp;</td> <td colspan="2"><div align="justify"class="bodyText"> 
+
+<br><br>This event is one of the activities taking place at Galileo
+Galilei Institute, in Florence, in the framework of the two month
+workshop on `Statistical Mechanics, Integrability and
+Combinatorics'. It aims at bringing together mathematicians and
+physicists interested in problems at the interface between statistical
+mechanics, combinatorics and probability theory. 
+
+<br>
+<br>
+
+In this Focus Week, emphasis is put on lattice models, and their
+behaviour at a macroscopic level (scaling limits at criticality) and
+especially at a microscopic level (combinatorial and algebraic
+structures).
+<br>
+<br>
+<br>
+
+Main topics:
+<br>
+<br>- Discrete holomorphicity and integrability 
+<br>- Lattice models and combinatorics 
+<br>- Quantum integrability and  correlation functions. 
+<br>
+
+
+
+<br><br> Deadline for application: May 1st, 2015.
+<!--
+<br> Late applications may be also considered. 
+-->
+<br><br>
+
+
+</div></td>
+<td>&nbsp;</td>
+</tr>
+
+<!--/////////////////////////////////////////////////////-->
+<!--//   Here ends the bulk content of "Index.html"  ////-->
+<!--/////////////////////////////////////////////////////-->
+
